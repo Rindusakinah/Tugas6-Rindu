@@ -1,0 +1,23 @@
+{
+    "posts": [
+      {
+        "id": "0d8d",
+        "title": "a",
+        "content": "a"
+      }
+    ],
+    "comments": [
+      {
+        "id": "2",
+        "text": "another comment about post 1",
+        "postId": null
+      },
+      {
+        "id": "6350",
+        "content": "a"
+      }
+    ],
+    "profile": {
+      "name": "Rindu"
+    }
+  }
